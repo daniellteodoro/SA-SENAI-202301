@@ -1,0 +1,4 @@
+- Wireframes (Esqueleto das telas);
+- Telas (Rascunho / Como são de fato);
+- Fluxo de Telas;
+- Programar;
